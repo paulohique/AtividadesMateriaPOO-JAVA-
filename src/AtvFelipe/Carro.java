@@ -16,7 +16,7 @@ public class Carro {
         this.anoFabricacao = anoFabricacao;
         this.cor = cor;
         this.potencia = potencia;
-        this.valorMercado = valorMercado;
+        this.valorMercado = valorMercado;//
     }
 
     public String getPlaca() {
